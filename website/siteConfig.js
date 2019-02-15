@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Manual Book SIMRS RSUP Persahabatan', // Title for your website.
-  tagline: 'SIMRS RSUP Persahabatan',
+  title: 'RSUP PERSAHABATAN', // Title for your website.
+  tagline: 'Manual Book Prima SIMRS RSUP Persahabatan',
   url: 'https://rsuppersahabatan.github.io', // Your website URL
   baseUrl: '/prima/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
