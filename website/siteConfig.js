@@ -37,24 +37,29 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+  // headerLinks: [
+  //   {doc: 'doc1', label: 'Docs'},
+  //   {doc: 'doc4', label: 'API'},
+  //   {page: 'help', label: 'Help'},
+  //   {blog: true, label: 'Blog'},
+  // ],
+
+  headerLinks: [ 
+    {doc: 'doc1', label: 'Mulai Disini!'},
+    {blog: true, label: 'Blog'}
   ],
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/logo.jpg',
+  footerIcon: 'img/logo.jpg',
   favicon: 'img/favicon.png',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#2E8555',
+    primaryColor: '#4A86C5',
     secondaryColor: '#205C3B',
   },
 
@@ -73,7 +78,7 @@ const siteConfig = {
   */
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
-  copyright: `Copyright © ${new Date().getFullYear()} Your Name or Your Company Name`,
+  copyright: `Copyright © ${new Date().getFullYear()} RSUP Persahabatan - Jakarta Timur`,
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
@@ -89,8 +94,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
+  ogImage: 'img/logo.png',
+  twitterImage: 'img/logo.png',
 
   // Show documentation's last contributor's name.
   // enableUpdateBy: true,
