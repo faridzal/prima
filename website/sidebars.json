@@ -1,10 +1,14 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+  	"Pembukaan": ["pengantar"],
+    "Daftar Modul": [
+    	"rawat-jalan/intro",
+    	"rawat-inap/intro",
+    	"rekam-medis/intro"
+    ],
+    "Lainnya": ["lainnya"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "First Category": ["others/doc4", "others/doc5"]
   }
 }

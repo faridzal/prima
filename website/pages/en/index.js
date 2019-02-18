@@ -85,7 +85,7 @@ class HomeSplash extends React.Component {
                 <Logo img_src={imgUrl("logo.jpg")} />
                 <div className="inner">
                     <ProjectTitle />
-                    <Button href={docUrl("doc2.html", language)}>
+                    <Button href={docUrl("pengantar", language)}>
                         Mulai Disini!
                     </Button>
                 </div>

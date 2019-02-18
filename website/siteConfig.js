@@ -45,7 +45,7 @@ const siteConfig = {
   // ],
 
   headerLinks: [ 
-    {doc: 'doc1', label: 'Mulai Disini!'},
+    {doc: 'others/doc1', label: 'Mulai Disini!'},
     {blog: true, label: 'Blog'}
   ],
 
